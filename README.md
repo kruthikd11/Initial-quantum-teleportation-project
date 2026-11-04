@@ -90,4 +90,5 @@ Generated visualizations are saved in the `Teleportation_Output` folder.
 This project demonstrates the Quantum Teleportation protocol through quantum circuit simulation, showing the role of entanglement, classical measurement, and quantum correction gates.
 
 ## Author
-kruthik D
+## Author
+**(kruthikd11)**
